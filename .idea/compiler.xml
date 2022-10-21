@@ -6,9 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="untitledcom.essaid.demos.fhir.r4-model-1" />
         <module name="com.essaid.demos.spring-junit5-launcher-demo-launcher" />
         <module name="com.essaid.demos.spring-junit5-launcher-demo-api" />
+        <module name="com.essaid.demos.fhir.r4-model-1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
