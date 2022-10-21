@@ -1,6 +1,0 @@
-{
-  "resourceType": "CodeSystem",
-  "concept": [ {
-    "code": "hello"
-  } ]
-}
