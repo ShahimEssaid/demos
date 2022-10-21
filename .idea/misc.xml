@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-junit5-launcher-demo/launcher/spring-junit5-launcher-demo-launcher/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-junit5-launcher-demo/parent/org.essaid.demos.spring-junit5-launcher-demo-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-junit5-launcher-demo/launcher/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-junit5-launcher-demo/api/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-junit5-launcher-demo/modules/pom.xml" />
+        <option value="$PROJECT_DIR$/fhir/untitledcom.essaid.demos.fhir.r4-model-1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
